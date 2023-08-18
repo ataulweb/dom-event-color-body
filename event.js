@@ -30,6 +30,6 @@ makeOrangeButton.addEventListener('click', function makeOrang(){
 })
 
 // Option-04.2 (Final)
-document.getElementById('green-btn').addEventListener('click', function makeGreen(){
+    document.getElementById('green-btn').addEventListener('click', function makeGreen(){
     document.body.style.backgroundColor = 'green'
 })
