@@ -28,3 +28,8 @@ const makeOrangeButton = document.getElementById('orange-btn')
 makeOrangeButton.addEventListener('click', function makeOrang(){
     document.body.style.backgroundColor = 'orange'
 })
+
+// Option-04.2 (Final)
+document.getElementById('green-btn').addEventListener('click', function makeGreen(){
+    document.body.style.backgroundColor = 'green'
+})
