@@ -4,5 +4,5 @@ document.getElementById('button-addon1').addEventListener('click', function(){
     
     const defaultText = document.getElementById('default-text')
     defaultText.innerText = inputText;
-    inputField.value =''
+    inputField.value =
 })
